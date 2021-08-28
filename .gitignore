@@ -1,0 +1,9 @@
+.streamlit
+.streamlit/*
+__pycache__
+__pycache__/*
+
+*.code-workspace
+
+pushtoDB.py
+TCO_ver1b_old.py
